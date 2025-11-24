@@ -8,7 +8,7 @@ As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScrip
 
 My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
 
-Along with technical expertise, I bring a positive attitude, excellent communication skills, and the ability to work well under pressure. I also have a strong focus on meeting deadlines and delivering quality results. Furthermore, my passion for web development and new technologies makes me eager to take on new challenges and opportunities to grow my skills.
+In addition to technical expertise, I bring a positive attitude, excellent communication skills, and the ability to work effectively under pressure. I also have a strong focus on meeting deadlines and delivering quality results. Furthermore, my passion for web development and new technologies makes me eager to take on new challenges and opportunities to grow my skills.
   
 #### Find Me On :
 
@@ -24,7 +24,7 @@ Along with technical expertise, I bring a positive attitude, excellent communica
 
 - 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
 
-- 📫 How to reach me **mamorshedalam@outlook.com**
+- 📫 How to reach me **morshedalamdev@outlook.com**
 
 - :computer: Most used line of code `console.log("test")`
 
