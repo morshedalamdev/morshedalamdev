@@ -22,8 +22,6 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 
 - 👨‍💻 All of my projects are available at [https://github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
 
-- 📝 I regularly write articles on [https://medium.com/@mamorshedalam](https://medium.com/@mamorshedalam)
-
 - 📫 How to reach me **morshedalamdev@outlook.com**
 
 - :computer: Most used line of code `console.log("test")`
