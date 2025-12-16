@@ -4,7 +4,7 @@
 
 I'm a <b>Web Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of Web technologies and their integration with back-end systems.
 
-As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node JS</b> and I have used databases like <b>MongoDB and Firebase.</b>
+As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node/Express JS</b> and I have used databases like <b>PostgreSQL, MongoDB and Firebase.</b>
 
 My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
 
@@ -37,10 +37,11 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![React Native](https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
-[![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Express.js Badge](https://img.shields.io/badge/sanity-F03E43?style=for-the-badge&logo=sanity&logoColor=white&labelColor=black)](#)
+[![Postgres](https://img.shields.io/badge/Postgres-%23316192.svg?logo=postgresql&logoColor=white)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCB2B)](#)
+[![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#)
 
 
@@ -54,6 +55,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![Visual Studio Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-0078d7.svg?logo=vsc&style=for-the-badge&logoColor=white)](#)
 [![Git Badge](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](#)
 [![Netlify](https://img.shields.io/static/v1?style=for-the-badge&message=Netlify&color=20c6b7&logo=Netlify&logoColor=FFFFFF&label=)](#)
+[![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?logo=vercel&logoColor=white)](#)
 [![Heroku](https://img.shields.io/static/v1?style=for-the-badge&message=Heroku&color=6567a5&logo=Heroku&logoColor=FFFFFF&label=)](#)
 [![Figma](https://img.shields.io/static/v1?style=for-the-badge&message=Figma&color=A259FF&logo=Figma&logoColor=FFFFFF&label=)](#)
 [![Google Chrome](https://img.shields.io/static/v1?style=for-the-badge&message=Google+Chrome&color=db3236&logo=Google+Chrome&logoColor=FFFFFF&label=)](#)
