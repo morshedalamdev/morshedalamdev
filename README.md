@@ -38,7 +38,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![React Native](https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
 [![Express.js Badge](https://img.shields.io/badge/sanity-F03E43?style=for-the-badge&logo=sanity&logoColor=white&labelColor=black)](#)
-![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=699EAC)(#)
+[![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=699EAC)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCB2B)](#)
 [![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
