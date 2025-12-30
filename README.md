@@ -26,7 +26,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 
 - :computer: Most used line of code `console.log("test")`
 
-- 🌐 &nbsp;Visit my portfolio [M.A](https://morshedalamdev.netlify.app)
+- 🌐 &nbsp;Visit my portfolio [here...](https://morshedalam.dev)
 
 
 #### Technologies I use:
