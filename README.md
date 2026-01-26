@@ -18,7 +18,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/morshedalamdev)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **NestJS**
 
 - 👨‍💻 All of my projects are available at [https://github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
 
