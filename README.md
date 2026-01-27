@@ -4,7 +4,7 @@
 
 I'm a <b>Web Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of Web technologies and their integration with back-end systems.
 
-As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node/Express JS</b> and I have used databases like <b>PostgreSQL, MongoDB and Firebase.</b>
+As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node/Express JS, Nest JS</b> and I have used databases like <b>PostgreSQL, MongoDB and Firebase.</b>
 
 My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
 
@@ -37,6 +37,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![React Badge](https://img.shields.io/badge/React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![React Native](https://img.shields.io/badge/React%20Native-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)
 [![Nodejs Badge](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#)
+[![Nestjs Badge](https://img.shields.io/badge/Nestjs-E0234E?style=for-the-badge&labelColor=black&logo=nestjs&logoColor=E0234E)](#)
 [![Express.js Badge](https://img.shields.io/badge/sanity-F03E43?style=for-the-badge&logo=sanity&logoColor=white&labelColor=black)](#)
 [![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&labelColor=black&logo=postgresql&logoColor=699EAC)](#)
 [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=4EA94B)](#)
