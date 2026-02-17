@@ -2,13 +2,32 @@
 
 <img src="mamorshedalam.png" width="100%" alt="hi">
 
-I'm a <b>Web Developer</b> since 2019. And also a student of <b>Computer Technology.</b> I have developed a strong understanding of Web technologies and their integration with back-end systems.
+Hello! I'm a <b>Full-stack Web Developer</b> driven by a passion for solving complex problems through elegant code. Since 2019, I've been crafting digital solutions while continuously sharpening my problem-solving skills through competitive programming.
 
-As an experienced Developer, I am well-versed in <b>JavaScript</b>, <b>TypeScript</b> and I have worked extensively with popular front-end frameworks such as <b>Next JS, React JS, React Native, Alpine JS, Redux, Sanity, Tailwind CSS, and Bootstrap.</b> I have also had a great deal of experience working with <b>Node/Express JS, Nest JS</b> and I have used databases like <b>PostgreSQL, MongoDB and Firebase.</b>
+Beyond building applications, I'm deeply committed to algorithmic thinking and computational problem-solving. I regularly challenge myself on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev), tackling data structures, algorithms, and complex coding challenges. This practice not only keeps my fundamentals sharp but also enhances my ability to write efficient, optimized code in real-world projects.
 
-My expertise in web technologies also includes <i>responsive design, cross-browser compatibility, and SEO-optimised code.</i> I take pride in staying up-to-date with the latest trends and best practices in front-end development to ensure that I can deliver top-quality work to my clients.
+My technology stack includes:
+- Frontend: JavaScript, TypeScript, React.js, Next.js, React Native, Alpine.js, TailwindCSS, Bootstrap
+- Backend: Node.js, Express.js, Nest.js
+- Databases: PostgreSQL, MongoDB, Firebase
+- Tools & Deployment: Git, Sanity, TypeORM, VS Code, Chrome Dev Tools, Netlify, Vercel
+- Design: Photoshop, Illustrator, Filmora
 
-In addition to technical expertise, I bring a positive attitude, excellent communication skills, and the ability to work effectively under pressure. I also have a strong focus on meeting deadlines and delivering quality results. Furthermore, my passion for web development and new technologies makes me eager to take on new challenges and opportunities to grow my skills.
+I'm committed to staying current with the latest web development trends and best practices, ensuring every project I deliver meets modern standards and exceeds expectations.
+
+The problem-solving mindset I've cultivated through competitive programming translates directly into my development work: I approach challenges methodically, write clean and efficient code, and always seek the optimal solution.
+
+I pride myself on bringing:
+- A positive, collaborative attitude
+- Excellent communication skills
+- The ability to thrive under pressure
+- Strong focus on deadlines and quality delivery
+- Genuine passion for web development and emerging technologies
+- Eagerness to embrace new challenges and growth opportunities
+
+When I'm not coding, I enjoy hiking and photography. These hobbies help me maintain balance, fuel my creativity, and remind me to appreciate both the journey and the details—perspectives that enrich my approach to development.
+
+I love connecting with fellow developers, tech enthusiasts, and potential collaborators. Whether you want to discuss a project, share ideas, or just talk tech, feel free to reach out. Let's build something amazing together!
   
 #### Find Me On :
 
@@ -17,8 +36,10 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/morshedalamdev)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/morshedalamdev)
 [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mamorshedalam@outlook.com)
+[Shutterstock](https://shutterstock.com/g/mamorshedalam)
+[Adobe Stock](https://stock.adobe.com/contributor/209572375/morshedalamdev)
 
-- 🌱 I’m currently learning **NestJS**
+- 🌱 I’m currently learning **Python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
 
@@ -44,6 +65,7 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCB2B)](#)
 [![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#)
+[![TypeORM](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)](#)
 
 
 #### Things I code with:
@@ -63,10 +85,9 @@ In addition to technical expertise, I bring a positive attitude, excellent commu
 [![Vite Js](https://img.shields.io/badge/Vite-B73BFE?style=for-the-badge&logo=vite&logoColor=FFD62E)](#)
 
 
-#### Beside Coding:
+#### Besides Coding:
 
 [![Filmora Pro](https://img.shields.io/badge/Filmora-09283e?style=for-the-badge&logo=wondersharefilmora&logoColor=50e3c2&labelColor=09283e)](#)
 ![Adobe Lightroom](https://img.shields.io/badge/Adobe%20Lightroom-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom&logoColor=white)
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white)
-[![MS Office](https://img.shields.io/badge/Microsoft%20Office-D83B01?style=for-the-badge&labelColor=D83B01)](#)
