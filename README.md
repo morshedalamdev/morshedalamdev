@@ -65,7 +65,7 @@ I love connecting with fellow developers, tech enthusiasts, and potential collab
 [![Firebase](https://img.shields.io/badge/Firebase-FFCB2B?style=for-the-badge&labelColor=black&logo=Firebase&logoColor=FFCB2B)](#)
 [![Sanity Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#)
 [![Redux](https://img.shields.io/badge/Redux-764abc?style=for-the-badge&labelColor=black&logo=Redux&logoColor=764abc)](#)
-[![TypeORM](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)](#)
+[![TypeORM](https://img.shields.io/badge/typeorm-FE0803?style=for-the-badge&labelColor=black&logo=typeorm&logoColor=white)](#)
 
 
 #### Things I code with:
