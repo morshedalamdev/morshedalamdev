@@ -2,7 +2,7 @@
 
 <img src="mamorshedalam.png" width="100%" alt="hi">
 
-Hello! I'm a <b>Full-stack Web Developer</b> driven by a passion for solving complex problems through elegant code. Since 2019, I've been crafting digital solutions while continuously sharpening my problem-solving skills through competitive programming.
+Hello! I'm a <b>Full-stack Web Developer</b> driven by a passion for solving complex problems through elegant code. Since 2021, I've been crafting digital solutions while continuously sharpening my problem-solving skills through competitive programming.
 
 Beyond building applications, I'm deeply committed to algorithmic thinking and computational problem-solving. I regularly challenge myself on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev), tackling data structures, algorithms, and complex coding challenges. This practice not only keeps my fundamentals sharp but also enhances my ability to write efficient, optimized code in real-world projects.
 
