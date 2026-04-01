@@ -8,9 +8,9 @@ Beyond building applications, I'm deeply committed to algorithmic thinking and c
 
 My technology stack includes:
 - Frontend: JavaScript, TypeScript, React.js, Next.js, React Native, Alpine.js, TailwindCSS, Bootstrap
-- Backend: Node.js, Express.js, Nest.js
+- Backend: Python(FastAPI), Node.js, Express.js, Nest.js
 - Databases: PostgreSQL, MongoDB, Firebase
-- Tools & Deployment: Git, Sanity, TypeORM, VS Code, Chrome Dev Tools, Netlify, Vercel
+- Tools & Deployment: Git, Sanity, TypeORM, Prisma, VS Code, Chrome Dev Tools, Netlify, Vercel
 - Design: Photoshop, Illustrator, Filmora
 
 I'm committed to staying current with the latest web development trends and best practices, ensuring every project I deliver meets modern standards and exceeds expectations.
