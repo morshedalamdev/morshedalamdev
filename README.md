@@ -39,7 +39,7 @@ I love connecting with fellow developers, tech enthusiasts, and potential collab
 [Shutterstock](https://shutterstock.com/g/mamorshedalam)
 [Adobe Stock](https://stock.adobe.com/contributor/209572375/morshedalamdev)
 
-- 🌱 I’m currently learning **Python**
+- 🌱 I’m currently learning **FastAPI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
 
