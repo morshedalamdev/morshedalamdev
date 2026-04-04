@@ -1,6 +1,6 @@
 # <img src="hello.gif" height="25px" alt="hi"> Hi there
 
-<img src="mamorshedalam.png" width="100%" alt="hi">
+<img src="morshedalam.jpg" width="100%" alt="hi">
 
 Hello! I'm a <b>Full-stack Web Developer</b> driven by a passion for solving complex problems through elegant code. Since 2021, I've been crafting digital solutions while continuously sharpening my problem-solving skills through competitive programming.
 
