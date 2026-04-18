@@ -6,6 +6,10 @@ Hello! I'm a <b>Full-Stack Software Engineer</b> driven by a passion for solving
 
 Beyond building applications, I'm deeply committed to algorithmic thinking and computational problem-solving. I regularly challenge myself on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev), focusing on data structures, algorithms, and writing efficient solutions that translate well to real-world engineering.
 
+Alongside product development, I’m currently learning Data Engineering with a focus on SQL fundamentals. My goal is to strengthen how I think about data modeling, analytics-ready data, and practical data workflows—so I can build software that is not only functional, but also measurable and data-driven.
+
+I also use AI tools in my daily development workflow to increase productivity and quality. I treat AI as an assistant (not a substitute): I validate outputs, review edge cases, and ensure correctness before shipping.
+
 My technology stack includes:
 - Frontend: JavaScript, TypeScript, React.js, Next.js, React Native, Alpine.js, TailwindCSS, Bootstrap
 - Backend: Python(FastAPI), Node.js, Express.js, Nest.js
@@ -13,21 +17,16 @@ My technology stack includes:
 - Tools & Deployment: Git, Sanity, TypeORM, Prisma, VS Code, Chrome Dev Tools, Netlify, Vercel
 - Design: Photoshop, Illustrator, Filmora
 
-I'm committed to staying current with the latest web development trends and best practices, ensuring every project I deliver meets modern standards and exceeds expectations.
+What I bring to a team:
+- Strong problem-solving mindset with a structured, methodical approach
+- Clear communication, collaboration, and ownership
+- Ability to perform under pressure while maintaining quality
+- Focus on deadlines, clean code, and long-term maintainability
+- Curiosity and growth mindset—always learning and improving
 
-I'm also an AI-enabled developer: I use AI tools in my daily workflow to speed up development and improve quality—supporting brainstorming, debugging, refactoring, test generation, and documentation—while always validating correctness before shipping.
+When I’m not coding, I enjoy hiking and photography. These hobbies help me stay balanced, fuel creativity, and appreciate both the journey and the details—perspectives that also influence how I approach engineering work.
 
-I pride myself on bringing:
-- A positive, collaborative attitude
-- Excellent communication skills
-- The ability to thrive under pressure
-- Strong focus on deadlines and quality delivery
-- Genuine passion for web development and emerging technologies
-- Eagerness to embrace new challenges and growth opportunities
-
-When I'm not coding, I enjoy hiking and photography—hobbies that help me stay balanced, creative, and detail-oriented.
-
-I love connecting with fellow developers, tech enthusiasts, and potential collaborators. Whether you want to discuss a project, share ideas, or just talk tech, feel free to reach out. Let's build something amazing together!
+I love connecting with fellow developers, tech enthusiasts, and potential collaborators. If you want to discuss a project, share ideas, or just talk tech, feel free to reach out.
   
 #### Find Me On :
 
