@@ -2,9 +2,9 @@
 
 <img src="morshedalam.jpg" width="100%" alt="hi">
 
-Hello! I'm a <b>Full-stack Web Developer</b> driven by a passion for solving complex problems through elegant code. Since 2021, I've been crafting digital solutions while continuously sharpening my problem-solving skills through competitive programming.
+Hello! I'm a <b>Full-Stack Software Engineer</b> driven by a passion for solving complex problems through clean, reliable, and elegant code. Since 2021, I've been building solutions end-to-end while continuously sharpening my fundamentals through competitive programming.
 
-Beyond building applications, I'm deeply committed to algorithmic thinking and computational problem-solving. I regularly challenge myself on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev), tackling data structures, algorithms, and complex coding challenges. This practice not only keeps my fundamentals sharp but also enhances my ability to write efficient, optimized code in real-world projects.
+Beyond building applications, I'm deeply committed to algorithmic thinking and computational problem-solving. I regularly challenge myself on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev), focusing on data structures, algorithms, and writing efficient solutions that translate well to real-world engineering.
 
 My technology stack includes:
 - Frontend: JavaScript, TypeScript, React.js, Next.js, React Native, Alpine.js, TailwindCSS, Bootstrap
@@ -15,7 +15,7 @@ My technology stack includes:
 
 I'm committed to staying current with the latest web development trends and best practices, ensuring every project I deliver meets modern standards and exceeds expectations.
 
-The problem-solving mindset I've cultivated through competitive programming translates directly into my development work: I approach challenges methodically, write clean and efficient code, and always seek the optimal solution.
+I'm also an AI-enabled developer: I use AI tools in my daily workflow to speed up development and improve quality—supporting brainstorming, debugging, refactoring, test generation, and documentation—while always validating correctness before shipping.
 
 I pride myself on bringing:
 - A positive, collaborative attitude
@@ -25,7 +25,7 @@ I pride myself on bringing:
 - Genuine passion for web development and emerging technologies
 - Eagerness to embrace new challenges and growth opportunities
 
-When I'm not coding, I enjoy hiking and photography. These hobbies help me maintain balance, fuel my creativity, and remind me to appreciate both the journey and the details—perspectives that enrich my approach to development.
+When I'm not coding, I enjoy hiking and photography—hobbies that help me stay balanced, creative, and detail-oriented.
 
 I love connecting with fellow developers, tech enthusiasts, and potential collaborators. Whether you want to discuss a project, share ideas, or just talk tech, feel free to reach out. Let's build something amazing together!
   
