@@ -2,7 +2,7 @@
 
 <img src="morshedalam.jpg" width="100%" alt="hi">
 
-Hello! I'm <b>Software Engineer</b> by foundation & <b>Data Engineer</b> by evolution. I specialize in building production-ready systems and designing scalable data architecture, driven by a deep passion for algorithmic thinking and computational problem-solving. Through daily deliberate practice on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev).
+I'm <b>Software Engineer</b> by foundation & <b>Data Engineer</b> by evolution. I specialize in building production-ready systems and designing scalable data architecture, driven by a deep passion for algorithmic thinking and computational problem-solving. Through daily deliberate practice on platforms like [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev).
 
 Currently, I am actively expanding my expertise to build the infrastructure that powers software: Data Engineering. I am advancing my skills through robust <b>ETL/ELT workflows</b>, build scalable <b>data pipelines</b>, and navigate <b>modern data ecosystems</b>.
 
