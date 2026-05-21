@@ -23,7 +23,6 @@ Always learning and applying new skills – I don’t just write code, I automat
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshedalamdev)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_morshedalam)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/morshedalamdev)
-[![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:morshedalam.dev@outlook.com)
 
 - 🌱 I’m currently learning **Data Engineering**
 
