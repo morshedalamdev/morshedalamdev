@@ -2,52 +2,63 @@
 
 <img src="morshedalam.jpg" width="100%" alt="Morshed Alam">
 
-I'm **Morshed Alam**, a **Software Engineer** with a strong full-stack foundation and a growing focus on **Data Engineering**.
+I'm a **Software Engineer based in Wuhan, China**, with experience building web applications, backend services, and systems that connect physical devices to software.
 
-Since 2021, I’ve built web applications, backend systems, APIs, dashboards, and database-driven products using **Python**, **TypeScript/JavaScript**, **React**, **Next.js**, **Node.js**, **Express.js**, **NestJS**, **FastAPI**, **PostgreSQL**, **MongoDB**, **Firebase**, and modern deployment workflows.
+My work spans **frontend development, backend architecture, database design, IoT integration, and cloud operations**. I enjoy understanding how the pieces fit together—from the interface someone uses to the API, device connection, and deployment workflow behind it.
 
-My work covers **full-stack product development**, **backend/API architecture**, **database design**, **authentication**, **RBAC**, **real-time/WebSocket communication**, and **system integration**. Through freelance and professional work, I’ve delivered **75+ projects for 45+ clients** while maintaining a **5-star client rating**, with a focus on clean code, reliable delivery, and practical problem-solving.
+I'm also developing my **Data Engineering** skills through Python, SQL, data modeling, and practical pipeline projects.
 
-I’m also building deeper **Data Engineering** capability—the infrastructure side of software that turns raw data into reliable, usable systems. My current focus includes **Python**, **SQL**, **ETL/ELT workflows**, **data cleaning**, **data modeling**, **PostgreSQL**, **Snowflake**, **workflow orchestration**, and scalable **data pipeline foundations**.
+[Portfolio](https://www.morshedalam.dev/) · [LinkedIn](https://www.linkedin.com/in/morshedalamdev/) · [Email](mailto:morshedalam.dev@outlook.com)
 
-I use AI tools like **Claude Code** and **Codex** as engineering accelerators—not shortcuts. I use them to plan architecture, generate/refactor code, test edge cases, improve documentation, and move faster while keeping final validation and technical ownership in my hands.
-
-Outside project work, I practice algorithmic problem-solving on [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://hackerrank.com/profile/morshedalamdev) to sharpen my fundamentals in data structures, algorithms, and computational thinking.
-
-I'm open to **Software Engineer**, **Backend Engineer**, **Full-Stack Engineer**, and **entry-level Data Engineer** opportunities where I can build reliable user-facing systems, backend services, and data pipelines.
-
----
 
 ## Technical Arsenal
 
-- **Software Engineering:** Python, TypeScript/JavaScript, React, Next.js, Node.js, Express.js, NestJS, FastAPI, React Native
-- **Data Engineering:** Python, SQL, ETL/ELT workflows, data cleaning, data modeling, Snowflake, data pipeline foundations
-- **Databases:** PostgreSQL, MongoDB, Firebase
-- **Backend & APIs:** REST, GraphQL, WebSocket APIs, OAuth2, authentication, RBAC, Prisma/TypeORM-style workflows
-- **Workflow & Deployment:** Git, GitHub, Vercel, Netlify, CI/CD pipelines, AI-assisted development
+- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Frontend:** React, Next.js, Vite, Tailwind CSS, React Native
+- **Backend and APIs:** Node.js, NestJS, Express.js, FastAPI, REST APIs, WebSockets, Socket.IO
+- **Databases and processing:** PostgreSQL, MongoDB, Firebase, Redis, TypeORM, SQLAlchemy, BullMQ
+- **IoT integration:** TCP communication, binary protocol handling, device data ingestion, telemetry and alarm processing
+- **Cloud and delivery:** Alibaba Cloud ECS, Linux, Docker, Nginx, PM2, GitHub Actions, Cloudflare Pages, CI/CD
 
----
+
+## Professional Work
+
+At **Yuedong Xinghe Science and Technology Innovation Co., Ltd.**, I progressed from **Backend Engineer to Software Engineer** while working on an industrial management platform with IoT integration.
+
+My contributions included:
+
+- **Architecture and full-stack development:** Contributed to platform architecture and built functionality across a modular NestJS backend, PostgreSQL data models, and React operational interfaces.
+- **IoT device integration:** Built custom TCP servers and binary protocol adapters to receive device data, normalize telemetry and alarms, and make that information available through backend APIs.
+- **Reliable data processing:** Implemented validation, idempotent processing, retries, controlled replay, and data import workflows with traceability.
+- **Authentication and access control:** Developed authentication, role-based permissions, scoped data access, and audit capabilities.
+- **Cloud infrastructure and delivery:** Managed Alibaba Cloud ECS servers and deployment workflows involving Nginx/TLS, PM2 releases, database migrations, health checks, rollback procedures, and CI pipelines.
+
+_This was employer-owned work; the source code is private._
+
+At **Hubei Wanlu Zhixin Technology**, I worked on a **smart-home integration prototype** connecting a React dashboard, NestJS API, live camera feed, and Python vision worker.
+
+My earlier experience includes web development for **Express Kitchens & Bath** and freelance work covering requirements, implementation, API integration, revisions, and client handover.
+
 
 ## Current Focus
 
-- 🌱 Building deeper expertise in **Data Engineering**
-- 🧱 Designing scalable backend systems and reliable data models
-- ⚙️ Practicing ETL/ELT workflows, SQL analysis, and data pipeline design
-- 🧠 Strengthening algorithmic problem-solving through LeetCode and HackerRank
-- 🤖 Using AI tools responsibly to accelerate engineering without compromising quality
+- 🌱 Deepening my **Data Engineering** skills through Python, SQL, ETL/ELT practice, data cleaning, and data modeling.
+- 🧱 Learning more about **data warehousing and Snowflake** through hands-on study.
+- ⚙️ Improving backend design, processing reliability, and deployment workflows.
+- 🧠 Practicing data structures and algorithms on [LeetCode](https://leetcode.com/u/morshedalamdev) and [HackerRank](https://www.hackerrank.com/profile/morshedalamdev).
 
----
+I use **Codex and Claude Code** to support planning, implementation, refactoring, testing, and documentation. I take responsibility for reviewing the work, validating behavior, and making the final engineering decisions.
 
-## Find Me On
+Outside engineering, I enjoy **hiking and photography**.
 
-[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/itsmorshedalam)
-[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/morshedalamdev)
-[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/its_morshedalam)
-[![Twitter Badge](https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white&labelColor=black)](https://twitter.com/morshedalamdev)
 
----
+## Let's Connect
 
-- 👨‍💻 All of my projects are available at [github.com/morshedalamdev?tab=repositories](https://github.com/morshedalamdev?tab=repositories)
-- 🌐 Visit my portfolio: [morshedalam.dev](https://morshedalam.dev)
-- 📫 Reach me at: **morshedalam.dev@outlook.com**
-- 💻 Most used line of code: `console.log("test")`
+I'm open to **Software Engineer**, **Backend Engineer**, and **Full-Stack Engineer** opportunities. I'm also interested in **entry-level Data Engineer** roles where I can develop my pipeline and data modeling skills further.
+
+- **Portfolio:** [morshedalam.dev](https://www.morshedalam.dev/)
+- **LinkedIn:** [morshedalamdev](https://www.linkedin.com/in/morshedalamdev/)
+- **Email:** [morshedalam.dev@outlook.com](mailto:morshedalam.dev@outlook.com)
+- **Freelance:** [Tech Infiny on Fiverr](https://www.fiverr.com/tech_infiny)
+
+[Facebook](https://facebook.com/itsmorshedalam) · [Instagram](https://instagram.com/its_morshedalam) · [X](https://twitter.com/morshedalamdev)
