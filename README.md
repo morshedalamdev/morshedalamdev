@@ -13,7 +13,7 @@ I'm also developing my **Data Engineering** skills through Python, SQL, data mod
 
 ## Technical Arsenal
 
-- **Languages:** TypeScript, JavaScript, Python, SQL
+- **Languages:** TypeScript, JavaScript, Go, Python, SQL
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, React Native
 - **Backend and APIs:** Node.js, NestJS, Express.js, FastAPI, REST APIs, WebSockets, Socket.IO
 - **Databases and processing:** PostgreSQL, MongoDB, Firebase, Redis, TypeORM, SQLAlchemy, BullMQ
