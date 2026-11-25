@@ -16,9 +16,9 @@ I'm also developing my **Data Engineering** skills through Python, SQL, data mod
 - **Languages:** TypeScript, JavaScript, Go, Python, SQL
 - **Frontend:** React, Next.js, Vite, Tailwind CSS, React Native
 - **Backend and APIs:** Node.js, NestJS, Express.js, FastAPI, Microservices, REST APIs, WebSockets, Socket.IO
-- **Databases and processing:** PostgreSQL, MongoDB, Firebase, Redis, TypeORM, SQLAlchemy, RabbitMQ
+- **Databases and processing:** PostgreSQL/pgVector, MongoDB, Firebase, Redis, TypeORM, SQLAlchemy, RabbitMQ
 - **IoT integration:** TCP communication, binary protocol handling, device data ingestion, telemetry and alarm processing
-- **Cloud and delivery:** Alibaba Cloud ECS, Linux, Docker, Nginx, Kubernetes, GitHub Actions, Cloudflare Pages, CI/CD
+- **Cloud and delivery:** Azure, Alibaba Cloud ECS, Linux, Docker, Nginx, Kubernetes, GitHub Actions, Cloudflare Pages, CI/CD
 
 
 ## Professional Work
